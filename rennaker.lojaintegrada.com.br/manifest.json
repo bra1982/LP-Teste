@@ -1,0 +1,30 @@
+
+{
+  "id": "/?utm_source=pwa",
+  "background_color": "#ffffff",
+  "description": "",
+  "dir": "ltr",
+  "lang": "pt-BR",
+  "display": "standalone",
+  "name": "Rennaker",
+  "orientation": "natural",
+  "scope": "/",
+  "short_name": "Rennaker",
+  "start_url": "/?utm_source=pwa",
+  "theme_color": "",
+  "categories": ["shopping", "business"],
+  "shortcuts": [
+    {
+      "name": "Meus Pedidos",
+      "short_name": "Pedidos",
+      "description": "Visualizar meus pedidos pedidos realizados",
+      "url": "https://rennaker.lojaintegrada.com.br/conta/pedido/listar"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://cdn.awsli.com.br/2545/2545673/favicon/favicon-0c5bed037d.png",
+      "purpose": "any"
+    }
+  ]
+}

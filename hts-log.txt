@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 27 Jan 2023 11:16:36 at https://rennaker.lojaintegrada.com.br/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://rennaker.lojaintegrada.com.br/ -O1 "D:\Sunflower\Site\Clone-Site\RennakerLojaIntegrada" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:17:39	Error: 	"Not Found" (404) at link https://rennaker.lojaintegrada.com.br/owl.video.play.png (from https://rennaker.lojaintegrada.com.br/avancado.css?v=20230123-164524)
+11:17:39	Error: 	"Not Found" (404) at link https://rennaker.lojaintegrada.com.br/carrinho/jquery.php (from https://rennaker.lojaintegrada.com.br/carrinho/index)
+11:17:39	Error: 	"Not Found" (404) at link https://rennaker.lojaintegrada.com.br/jquery.php (from https://rennaker.lojaintegrada.com.br/carrinho/index)
+11:17:39	Error: 	"Not Found" (404) at link https://rennaker.lojaintegrada.com.br/carrinho/performa.ai (from https://rennaker.lojaintegrada.com.br/carrinho/index)
+11:19:19	Warning: 	Retry after error -2 (Receive Time Out) at link https://rennaker.lojaintegrada.com.br/compre_junto/ (from https://rennaker.lojaintegrada.com.br/02-rennaker-gummy)
+11:19:50	Error: 	"Not Found" (404) at link https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/lens.png (from https://cdn.awsli.com.br/production/static/loja/estrutura/v1/css/imagezoom.min.css)
+11:21:19	Warning: 	Retry after error -2 (Receive Time Out) at link https://rennaker.lojaintegrada.com.br/compre_junto/ (from https://rennaker.lojaintegrada.com.br/02-rennaker-gummy)
+11:23:19	Error: 	"Receive Time Out" (-2) after 2 retries at link https://rennaker.lojaintegrada.com.br/compre_junto/ (from https://rennaker.lojaintegrada.com.br/02-rennaker-gummy)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 43 seconds : 153 links scanned, 144 files written (7799670 bytes overall) [4644963 bytes received at 11525 bytes/sec], 4450239 bytes transferred using HTTP compression in 190 files, ratio 23%, 20.4 requests per connection
+(6 errors, 2 warnings, 0 messages)
